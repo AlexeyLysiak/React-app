@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Greeting from './components/Greeting/Greeting';
+import Greeting from './components/Greeting/Greeting.component';
 
 function App() {
   return (
